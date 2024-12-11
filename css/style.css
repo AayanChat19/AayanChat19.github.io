@@ -104,7 +104,7 @@ img {
     min-width: 50%;
     padding: .5em 1em;
     text-decoration: none;
-    color: inherit;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
